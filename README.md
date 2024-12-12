@@ -28,7 +28,7 @@
 
 
 <h3 align="left">Como Usar:</h3>
-  <li>Acesse <a href="https://kaique12santos.github.io/yugioh_Jo-ken-po/" target="_black" rel="noneferrer">aqui</a>.</li>
+  <li>Acesse <a href="https://kaique12santos.github.io/piano/" target="_black" rel="noneferrer">aqui</a>.</li>
   <li>Clique nas teclas do piano ou pressione as teclas correspondentes no seu teclado para tocar as notas.</li>
   <li>Use o controle deslizante de volume para ajustar o som.</li>
   <li>Clique no botão de alternância para mostrar/ocultar as letras das teclas.</li>
